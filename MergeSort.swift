@@ -1,4 +1,4 @@
-let arr: [Int] = [1, 2, 3, 5, 6, 7, 4, 8, 9, 0]
+let arr: [Int] = [1, 2, 3, 5, 6, 7, 4, 8, 9, 0, 10]
 
 func mergeSort(a: [Int]) -> [Int] {
   var arr = a
